@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.so
+.env
+*.log
+reports/*
+!reports/.gitkeep
+*.json
+*.db
